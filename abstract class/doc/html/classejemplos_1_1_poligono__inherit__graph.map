@@ -1,0 +1,5 @@
+<map id="ejemplos::Poligono" name="ejemplos::Poligono">
+<area shape="rect" id="node2" href="$classejemplos_1_1_cuadrado.html" title="ejemplos::Cuadrado" alt="" coords="5,80,144,107"/>
+<area shape="rect" id="node3" href="$classejemplos_1_1_rectangulo.html" title="ejemplos::Rectangulo" alt="" coords="169,80,317,107"/>
+<area shape="rect" id="node4" href="$classejemplos_1_1_triangulo.html" title="ejemplos::Triangulo" alt="" coords="341,80,475,107"/>
+</map>

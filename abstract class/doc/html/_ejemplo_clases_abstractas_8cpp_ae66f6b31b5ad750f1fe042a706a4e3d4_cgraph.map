@@ -1,0 +1,9 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$classejemplos_1_1_rectangulo.html#adcaacdab8b8d3b4c059182157126f618" title="ejemplos::Rectangulo\l::setAncho" alt="" coords="121,5,269,47"/>
+<area shape="rect" id="node3" href="$classejemplos_1_1_rectangulo.html#aba1ed342a876c8acabf8a574be3bbdc1" title="ejemplos::Rectangulo\l::setAlto" alt="" coords="121,71,269,112"/>
+<area shape="rect" id="node4" href="$classejemplos_1_1_cuadrado.html#ae5f2124eb8fcfbbe5faf6059ecbd745e" title="ejemplos::Cuadrado\l::setLado" alt="" coords="125,136,264,177"/>
+<area shape="rect" id="node5" href="$_ejemplo_clases_abstractas_8cpp.html#ac8ea582465b0d4316ddcdf8eb9a0a472" title="imprime_area" alt="" coords="145,202,245,229"/>
+<area shape="rect" id="node7" href="$classejemplos_1_1_usadora_poligono.html#a2d5d971559408b94d9e3e22fb8c34a8e" title="ejemplos::UsadoraPoligono\l::set_poligono" alt="" coords="104,253,285,295"/>
+<area shape="rect" id="node8" href="$classejemplos_1_1_usadora_poligono.html#a39b8b517bff2207192c69da7e91077e0" title="ejemplos::UsadoraPoligono\l::calcula_area" alt="" coords="104,319,285,360"/>
+<area shape="rect" id="node6" href="$classejemplos_1_1_poligono.html#accce2cc8014aefcb6890f3c4b94f9334" title="ejemplos::Poligono\l::area" alt="" coords="333,257,465,299"/>
+</map>
